@@ -1,4 +1,4 @@
 /.*_Store
 /.git/
-/.ipynb_checkpoints/
-/.vscode/
+.ipynb_checkpoints/
+.vscode/
